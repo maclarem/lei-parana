@@ -4,7 +4,7 @@
 <hr>
 
 <p align="center"> <img src="https://github.com/MonicaHillman/Leia Paranábooks/blob/aula05/img/Logo.svg" alt="Logo da Leia Paraná plus"> </p>
-<p align="center">Um site do e-commerce AluraBooks, uma livraria online de livros sobre fantasia.</p>
+<p align="center">Um site do e-commerce Leia ParanáBooks, uma livraria online de livros sobre fantasia.</p>
 
 ## Tecnologias
 * HTML
